@@ -187,7 +187,6 @@ O projeto permitiu:
 # 🎥 Vídeo Demonstrativo
 
 Link do vídeo demonstrativo no YouTube: https://youtu.be/lbMYJcHHGaU
-```
 
 ---
 
