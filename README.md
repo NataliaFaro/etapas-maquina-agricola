@@ -186,10 +186,7 @@ O projeto permitiu:
 
 # 🎥 Vídeo Demonstrativo
 
-Link do vídeo demonstrativo no YouTube:
-
-```text
-[Adicionar link do vídeo aqui](https://youtu.be/lbMYJcHHGaU)
+Link do vídeo demonstrativo no YouTube: https://youtu.be/lbMYJcHHGaU
 ```
 
 ---
