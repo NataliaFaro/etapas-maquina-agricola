@@ -189,7 +189,7 @@ O projeto permitiu:
 Link do vídeo demonstrativo no YouTube:
 
 ```text
-Adicionar link do vídeo aqui
+[Adicionar link do vídeo aqui](https://youtu.be/lbMYJcHHGaU)
 ```
 
 ---
